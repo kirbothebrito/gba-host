@@ -18,7 +18,7 @@ Once deployed, make sure the site is live by visiting index.html. In this case, 
 If you saw a page load, good job! Everything is successful so far. Now you can start linking. Following instructions from [here](https://github.com/math-study/gba/blob/gh-pages/docs/UltimateGuide.md) link the games. Make sure to link properly, links from here are Case Sensitive! For example: https://math-study.github.io/gba-host/nes-alt/Mega_Man_2.nes.zip is the proper way to link Mega Man 2. Notice how the `M`'s are capitalized, and the file extension is also included (`.nes` is NOT the file extension in this case. It is `.zip` Remember to look at the entire file name and path.). 
 
 # Notes!
-Please note that this may take a long time to deploy. Like a really long time. GBA games alone make deployment 25 mins, and this include more consoles. 
+Please note that this may take a long time to deploy. Like a really long time. GBA games alone make deployment 25 mins, and this include more consoles.  
 If you choose to clone this repository locally for any reason, please note that the roms will take up about 7-8GBs of local storage. 
 
 # Contributions! 
